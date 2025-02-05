@@ -1,0 +1,8 @@
+streamlit
+requests
+psycopg2
+scikit-learn
+apscheduler
+pyyaml
+pandas
+python-telegram-bot
