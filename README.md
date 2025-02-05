@@ -1,2 +1,2 @@
 # AI-market-bot
-Crupto Trading Bot
+Crypto Trading Bot
